@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align="center">
-    <sup>1</sup>College of Computer Science, Inner Mongolia University, China&emsp;
+    <sup>1</sup>College of Computer Science, Inner Mongolia University, China&emsp;<br>
     <sup>2</sup>NLP2CT Lab, Department of Computer and Information Science, University of Macau, China&emsp;
     <br>
     † corresponding author&emsp;
