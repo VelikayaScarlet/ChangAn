@@ -1,5 +1,5 @@
 <h2 align="center">
-✒️WhoWroteThis Line? Evaluating the Detection of LLM-Generated Classical Chinese Poetrye✍️
+✒️Who Wrote This Line? Evaluating the Detection of LLM-Generated Classical Chinese Poetry✍️
 </h2>
 
 <p align="center">
